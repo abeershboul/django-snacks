@@ -21,3 +21,4 @@ pip freeze > requirements.txt
 pip install django
 
 ## PR 
+https://github.com/abeershboul/django-snacks
