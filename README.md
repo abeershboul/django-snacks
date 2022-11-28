@@ -12,8 +12,9 @@
 
 * Abeer Alshboul
 
-## run
+## How to initialize/run your application
 python manage.py runserver
+## Tests
 pythom manage.py test
 
 ## Install packages
