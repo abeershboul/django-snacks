@@ -10,7 +10,7 @@
 
 ## Project Author
 
-* Abeer Alshboul
+* Abeer Alshboul **
 
 ## How to initialize/run your application
 python manage.py runserver
