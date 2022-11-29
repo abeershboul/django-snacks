@@ -10,7 +10,7 @@
 
 ## Project Author
 
-* Abeer Alshboul
+* Abeer Alshboul **
 
 ## run
 python manage.py runserver
